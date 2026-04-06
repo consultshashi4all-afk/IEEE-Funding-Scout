@@ -1,0 +1,5 @@
+{
+  "name": "IEEE Funding Scout V1",
+  "description": "An intelligent aggregator for funding calls, grants, and scholarships from IEEE Societies, Councils, and Affinity Groups using Gemini AI search.",
+  "requestFramePermissions": []
+}
